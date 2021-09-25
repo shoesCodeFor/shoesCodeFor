@@ -1,9 +1,13 @@
-## Hello, I'm Schuyler (He/Him) 👋 
+# `whoami`
+## I'm Schuyler (He/Him) 👋 
 ### pronounced `/SKY-ler/`
 
-I'm a software dev living in Corvallis, Oregon.  I love all things software and am a perpetual student.  I'm thrilled to learn new technologies, frameworks and languages.  I spend my free time hacking on IoT devices and trying to make myself a more security minded engineer.  
+- I'm a software dev living in Corvallis, Oregon
+- I love all things software and am a perpetual student
+- I'm thrilled to learn new technologies, frameworks and languages
+- I spend my free time hacking on IoT devices and trying to make myself a more security minded engineer.  
 
-Hit me up if you need help on an open-source, non-profit or generally interesting project!
+Hit me up if you need help on an open-source, non-profit or generally interesting project! Seriously ;)
 
 <!--
 **shoesCodeFor/shoesCodeFor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
