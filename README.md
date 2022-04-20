@@ -13,7 +13,7 @@ Hit me up if you need help on an open-source, non-profit or generally interestin
 ### 📫 schuyler.ankele@gmail.com
 
 
-<iframe src="https://skyline.github.com/shoescodefor/2021"></iframe>
+<iframe src="https://skyline.github.com/shoescodefor/2021" title="Shoe City!"></iframe>
 
 <!--
 **shoesCodeFor/shoesCodeFor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
