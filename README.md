@@ -12,6 +12,8 @@
 Hit me up if you need help on an open-source, non-profit or generally interesting project! Seriously ;)
 ### 📫 schuyler.ankele@gmail.com
 
+So what's up with my spotty contribution history?  I worked for a company with Gitlab and another that required a company GitHub profile so I haven't done much personal coding in the last 2 year.  I'm starting up a passion project with the FloraSync API for IoT telemetry data.  That's probably my most relevant leisure project right now.
+
 
 
 <!--
