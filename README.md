@@ -14,7 +14,9 @@ Hit me up if you need help on an open-source, non-profit or generally interestin
 
 So what's up with my spotty contribution history?  I worked for a company with Gitlab and another that required a company GitHub profile so I haven't done much personal coding in the last 2 year.  I'm starting up a passion project with the FloraSync API for IoT telemetry data.  That's probably my most relevant leisure project right now.
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoesCodeFore&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
+</p>
 
 <!--
 **shoesCodeFor/shoesCodeFor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
