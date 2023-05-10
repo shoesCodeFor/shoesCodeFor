@@ -2,17 +2,27 @@
 ## I'm Schuyler (He/Him) 👋 
 ### pronounced `/SKY-ler/`
 
-## Working hard to do great things
+- 🔭 I’m currently working on @Automox cloud-native patching accross the enterprise
+- 🌱 I’m currently learning LLMs and using them as API agents and how to save my job from EUNISS
+- 👯 I’m looking to collaborate on @FloraSync
+- 🤔 I’m looking for help with understanding the need for event-driven architecture in simple CRUD apps
+- 💬 Ask me about _Life in General_
+- 📫 How to reach me: schuyler.ankele@gmail.com
 
-- I'm a software dev living in Corvallis, Oregon
-- I love all things software and am a perpetual student
-- I'm thrilled to learn new technologies, frameworks, and languages
-- I spend my free time hacking on IoT devices and trying to make myself a more security minded engineer.  
+## Working hard to do great things
+### Me in 5 bullets
+- Proud parent and partner!
+- Full-stack software dev living in Corvallis, Oregon
+- Perpetual student. Lover of all things software, systems, prgramming, and tech(and apparently Oxford commas)
+- Believe the world is precious and we should use tech to preserve it
+- Connisseur of San Luis valley green chile
 
 Hit me up if you need help on an open-source, non-profit or generally interesting project! Seriously ;)
-### 📫 schuyler.ankele@gmail.com
 
-So what's up with my spotty contribution history?  I worked for a company with Gitlab and another that required a company GitHub profile so I haven't done much personal coding in the last 2 year.  I'm starting up a passion project with the FloraSync API for IoT telemetry data.  That's probably my most relevant leisure project right now.
+I spend my time solving intersting problems @Automox.  We're a mid-level startup solving the world's most simple security problem.... patching. Patching, on the other hand, is very complicated across different OSes.  One of my greatest joys is helping people, whether it be at work, at home, with networking, or in any capacity I am able.  If you think we should connect send me an email or an invite on LinkedIn.  I didn't put the link here because I get enough spam and there's only a couple of us
+
+\-Schuyler
+toodles ✌️
 
 <!-- Not too impressive here bud
 <p align="center">
