@@ -19,7 +19,7 @@
 
 Hit me up if you need help on an open-source, non-profit or generally interesting project! Seriously ;)
 
-I spend my time solving intersting problems @Automox.  We're a mid-level startup solving the world's most simple security problem.... patching. Patching, on the other hand, is very complicated across different OSes.  One of my greatest joys is helping people, whether it be at work, at home, with networking, or in any capacity I am able.  If you think we should connect send me an email or an invite on LinkedIn.  I didn't put the link here because I get enough spam and there's only a couple of us
+I spend my time solving interesting problems at Spatial Data Logic building out code-driven infrastructure.  I love leveraging emerging tech to solve complicated problems.  One of my greatest joys is helping people, whether it be at work, at home, with networking, or in any capacity I am able.  If you think we should connect send me an email or an invite on LinkedIn.  I didn't put the link here because I get enough spam and there's only a couple of us
 
 \-Schuyler
 toodles ✌️
