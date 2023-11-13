@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning LLMs and using them as API agents and how to save my job from EUNISS
 - 👯 I’m looking to collaborate on @FloraSync
 - 🤔 I’m trying to understand the need for event-driven architecture in simple CRUD apps
-- 💬 Ask me about _Life in General_
 - 📫 How to reach me: schuyler.ankele@gmail.com
 
 ## Working hard to do great things
