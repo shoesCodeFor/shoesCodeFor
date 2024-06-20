@@ -2,10 +2,19 @@
 ## I'm Schuyler (He/Him) 👋 
 ### pronounced `/SKY-ler/`
 
+```wisdom
+A narcissist, for example, inspired by the homage paid to great painters may become an art student, but will not, as a rule, become an artist.
+The work itself, as a means to fame, will seem to him too painfully slow;
+he will continually be diverted from the effort that is necessary to master technique by dreams of the splendour that will accrue to him when his technique has been mastered.
+He does not sufficiently desire the result to be able to bear with patience the painful years of apprenticeship.
+
+- Bertrand Russell
+```
+
 - 🔭 I’m building platform and tools at Spatial Data Logic
-- 🌱 I’m currently learning LLMs and using them as API agents and how to save my job from EUNISS
+- 🦾 LLM Hacker
 - 👯 I’m looking to collaborate on @FloraSync
-- 🤔 I’m trying to understand the need for event-driven architecture in simple CRUD apps
+- 🤔 I’m _still_ trying to understand the need for event-driven architecture in simple CRUD apps
 - 📫 How to reach me: schuyler.ankele@gmail.com
 
 ## Working hard to do great things
