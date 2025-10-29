@@ -19,7 +19,6 @@ He does not sufficiently desire the result to be able to bear with patience the 
 - 🦾 LLM Hacker
 - 👯 I’m looking to collaborate on @FloraSync
 - 🤔 I’m _still_ trying to understand the need for event-driven architecture in simple CRUD apps
-- 📫 How to reach me: schuyler.ankele@gmail.com
 
 ## Working hard to do great things
 ### Me in 5 bullets
