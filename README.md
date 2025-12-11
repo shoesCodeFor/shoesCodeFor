@@ -15,7 +15,7 @@ He does not sufficiently desire the result to be able to bear with patience the 
 - Bertrand Russell
 ```
 
-- 🔭 I’m building platform and tools at Spatial Data Logic
+- 🔭 Senior full-stack engineer at Docket (part of ServiceCore)
 - 🦾 LLM Hacker
 - 👯 I’m looking to collaborate on @FloraSync
 - 🤔 I’m _still_ trying to understand the need for event-driven architecture in simple CRUD apps
